@@ -1,0 +1,6 @@
+E:\Kuliah\Semester 2\Pemrograman\Class and object\Taxi\Taxi\Taxi\bin\Debug\Taxi.exe.config
+E:\Kuliah\Semester 2\Pemrograman\Class and object\Taxi\Taxi\Taxi\obj\Debug\Taxi.csprojResolveAssemblyReference.cache
+E:\Kuliah\Semester 2\Pemrograman\Class and object\Taxi\Taxi\Taxi\bin\Debug\Taxi.exe
+E:\Kuliah\Semester 2\Pemrograman\Class and object\Taxi\Taxi\Taxi\bin\Debug\Taxi.pdb
+E:\Kuliah\Semester 2\Pemrograman\Class and object\Taxi\Taxi\Taxi\obj\Debug\Taxi.exe
+E:\Kuliah\Semester 2\Pemrograman\Class and object\Taxi\Taxi\Taxi\obj\Debug\Taxi.pdb
